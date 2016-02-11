@@ -1,0 +1,2 @@
+# todo-react-flux
+TodoMVC made with React and Flux. Modified using EcmaScript6 and Babel. The original one is from [Facebook/Flux repo](https://github.com/facebook/flux/tree/master/examples/flux-todomvc).
